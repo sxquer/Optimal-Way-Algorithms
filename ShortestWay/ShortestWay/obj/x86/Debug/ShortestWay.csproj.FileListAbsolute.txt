@@ -1,0 +1,5 @@
+D:\Dropbox\Projects\Dijkstra\ShortestWay\ShortestWay\bin\Debug\ShortestWay.exe
+D:\Dropbox\Projects\Dijkstra\ShortestWay\ShortestWay\bin\Debug\ShortestWay.pdb
+D:\Dropbox\Projects\Dijkstra\ShortestWay\ShortestWay\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Projects\Dijkstra\ShortestWay\ShortestWay\obj\x86\Debug\ShortestWay.exe
+D:\Dropbox\Projects\Dijkstra\ShortestWay\ShortestWay\obj\x86\Debug\ShortestWay.pdb
