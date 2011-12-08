@@ -1,0 +1,167 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Program.cs" caret="239" fromTop="11" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="140" fromTop="8" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Floyd.cs" caret="184" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="4430" fromTop="27" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="1195" fromTop="20" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="1403" fromTop="11" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="1643" fromTop="17" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="2233" fromTop="24" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="2460" fromTop="30" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="1843" fromTop="26" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="397" fromTop="12" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="3369" fromTop="15" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="4435" fromTop="29" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="3251" fromTop="18" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="3642" fromTop="30" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="4084" fromTop="28" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="2682" fromTop="12" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="2890" fromTop="18" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="3046" fromTop="26" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Program.cs" caret="1111" fromTop="15" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="247" fromTop="12" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="3290" fromTop="20" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="2031" fromTop="12" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="4410" fromTop="32" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Program.cs" caret="476" fromTop="15" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Program.cs" caret="719" fromTop="19" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Program.cs" caret="1011" fromTop="24" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Program.cs" caret="239" fromTop="11" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="132" fromTop="5" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Dijkstra.cs" caret="4443" fromTop="25" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Floyd.cs" caret="538" fromTop="6" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Floyd.cs" caret="784" fromTop="18" />
+      <File id="6482CD60-7B44-4AEC-97C4-2750E209E06A/f:Floyd.cs" caret="170" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="class" priority="156" />
+      <Item value="prop" priority="191" />
+      <Item value="int" priority="1136" />
+      <Item value="public" priority="191" />
+      <Item value="Graph`0" priority="63" />
+      <Item value="Length" priority="655" />
+      <Item value="length" priority="256" />
+      <Item value="GraphMatrix" priority="318" />
+      <Item value="new" priority="255" />
+      <Item value="if" priority="351" />
+      <Item value="firstNode" priority="221" />
+      <Item value="secondNode" priority="220" />
+      <Item value="return" priority="383" />
+      <Item value="private" priority="255" />
+      <Item value="void" priority="95" />
+      <Item value="id" priority="157" />
+      <Item value="bool" priority="187" />
+      <Item value="false" priority="159" />
+      <Item value="true" priority="127" />
+      <Item value="CheckId`0" priority="63" />
+      <Item value="for" priority="351" />
+      <Item value="i" priority="477" />
+      <Item value="while" priority="63" />
+      <Item value="currNode" priority="318" />
+      <Item value="Distance" priority="448" />
+      <Item value="else" priority="63" />
+      <Item value="next" priority="95" />
+      <Item value="BlockNode`0" priority="31" />
+      <Item value="var" priority="95" />
+      <Item value="Graph" priority="29" />
+      <Item value="test" priority="159" />
+      <Item value="string" priority="222" />
+      <Item value="Console`0" priority="63" />
+      <Item value="str" priority="127" />
+      <Item value="BinaryReader" priority="58" />
+      <Item value="streamReader" priority="63" />
+      <Item value="Stream`0" priority="29" />
+      <Item value="r" priority="31" />
+      <Item value="File`0" priority="31" />
+      <Item value="char" priority="28" />
+      <Item value="res" priority="31" />
+      <Item value="out" priority="255" />
+      <Item value="val" priority="31" />
+      <Item value="sr" priority="31" />
+      <Item value="Dijkstra" priority="29" />
+      <Item value="Math`0" priority="31" />
+      <Item value="nodeId" priority="31" />
+      <Item value="IsBlooked" priority="223" />
+      <Item value="needStop`0" priority="31" />
+      <Item value="result" priority="223" />
+      <Item value="low_distance" priority="159" />
+      <Item value="ParamArrayAttribute`0" priority="95" />
+      <Item value="curDistance" priority="126" />
+      <Item value="curNode" priority="190" />
+      <Item value="SelectNextNode`0" priority="31" />
+      <Item value="Parents" priority="127" />
+      <Item value="List&lt;int&gt;" priority="28" />
+      <Item value="startNode" priority="62" />
+      <Item value="finishNode" priority="95" />
+      <Item value="way" priority="127" />
+      <Item value="foreach" priority="31" />
+      <Item value="Way" priority="159" />
+      <Item value="IsCalculatable" priority="95" />
+      <Item value="Floyd`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MaxValue" priority="188" />
+      <Item value="Parse`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ShortestWay.Graph">
+      <Item value="GraphMatrix" priority="26" />
+      <Item value="Parse`0" priority="26" />
+      <Item value="GetShortestDistance`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="Read`0" priority="26" />
+      <Item value="ReadLine`0" priority="53" />
+      <Item value="ReadToEnd`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Read`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.BinaryReader">
+      <Item value="ReadInt32`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="108" />
+      <Item value="Replace`0" priority="26" />
+      <Item value="Substring`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sqrt`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ShortestWay.Dijkstra">
+      <Item value="GetShortestDistance`0" priority="26" />
+      <Item value="Way" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="80" />
+      <Item value="Reverse`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

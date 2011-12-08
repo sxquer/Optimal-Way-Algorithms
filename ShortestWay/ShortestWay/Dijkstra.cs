@@ -4,7 +4,7 @@ using System.IO;
 
 namespace ShortestWay
 {
-    class Dijkstra
+    internal class Dijkstra
     {
         public int[,] GraphMatrix { get; set; }
         public string Way { get; private set; }
@@ -20,9 +20,9 @@ namespace ShortestWay
             var sr = new StreamReader(filename);
             Length = int.Parse(sr.ReadLine());
 
-            GraphMatrix = new int[Length, Length];
-            
-            string[] res = sr.ReadToEnd().Replace("\r\n", " ").Split(new Char[] { ' ' });
+            GraphMatrix = new int[Length,Length];
+
+            string[] res = sr.ReadToEnd().Replace("\r\n", " ").Split(new Char[] {' '});
             for (int i = 0; i < Length; i++)
             {
                 for (int j = 0; j < Length; j++)
@@ -65,7 +65,7 @@ namespace ShortestWay
                     Console.Out.WriteLine("Граф не связан!");
                     IsCalculatable = false;
                 }
-                
+
             }
             return result;
         }
@@ -86,6 +86,7 @@ namespace ShortestWay
 
 
         }
+
         private void BuildWay(int startNode, int finishNode)
         {
             List<int> way = new List<int>();
@@ -150,6 +151,11 @@ namespace ShortestWay
             return -1;
         }
 
-
+        public void Echo(int start, int finish)
+        {
+            Console.Out.WriteLine("Минимальное расстояние: " + GetShortestDistance(start, finish));
+            Console.Out.WriteLine("Оптимальный путь: " + Way);
+            Console.Out.WriteLine("---------------------------------");
+        }
     }
 }
